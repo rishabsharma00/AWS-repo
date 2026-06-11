@@ -57,6 +57,7 @@ const server = http.createServer((req, res) => {
 <body>
     <div class="container">
         <h1>🐾 TravelWithTails</h1>
+        <h1>🚀 CI/CD SUCCESS! This page was updated automatically via GitHub Actions 🚀</h1>
 
         <p>
             Adventures are better with your furry companions.
